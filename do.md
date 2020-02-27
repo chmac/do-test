@@ -27,7 +27,7 @@ These tasks can be completed in order.
 - [ ] Here's a series of jobs
   1. [ ] This is our first task @email
   2. [ ] This can only be completed after the first
-- [ ] While a second series can be done in parallel
+- [x] While a second series can be done in parallel
   1. [ ] Sub two three
   2. [ ] Again after before
 
