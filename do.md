@@ -1,8 +1,7 @@
 - [x] Items in the inbox need to be filed
-- [ ] They can gather here but then will go south
+- [x] They can gather here but then will go south
 - [ ] Choose a + or a @ for people
 - [ ] Decide where # tags come into this
-- [ ] Extra task, far future after:2021-01-01
 
 # Work
 
@@ -47,7 +46,5 @@ What tasks do we actually want to get done on this package?
 Some tasks which repeat so we can mess around with that.
 
 - [ ] First repetition task by:2020-02-05 repeat:after3days
-- [ ] A deadline repeating task
-      after:2020-04-01 by:2020-05-07 repeat:after3months
 - [x] A deadline repeating task after:2020-01-01 by:2020-02-07
       repeat:after3months finished:2020-02-05
