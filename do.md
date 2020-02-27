@@ -1,4 +1,4 @@
-- [x] Items in the inbox need to be filed
+- [ ] Items in the inbox need to be filed
 - [ ] They can gather here but then will go south
 - [ ] Choose a + or a @ for people
 - [ ] Decide where # tags come into this
