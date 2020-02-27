@@ -1,6 +1,6 @@
 - [x] Items in the inbox need to be filed
 - [ ] They can gather here but then will go south
-- [x] Choose a + or a @ for people
+- [ ] Choose a + or a @ for people
 - [ ] Decide where # tags come into this
 - [ ] Extra task, far future after:2021-01-01
 
