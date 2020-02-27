@@ -2,7 +2,7 @@
 - [ ] They can gather here but then will go south
 - [ ] Choose a + or a @ for people
 - [ ] Decide where # tags come into this
-- [ ] Extra task, far future after:2021:01:01
+- [ ] Extra task, far future after:2021-01-01
 
 # Work
 
