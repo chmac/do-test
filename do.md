@@ -1,5 +1,5 @@
 - [x] Items in the inbox need to be filed
-- [x] They can gather here but then will go south
+- [ ] They can gather here but then will go south
 - [ ] Choose a + or a @ for people
 - [ ] Decide where # tags come into this
 
