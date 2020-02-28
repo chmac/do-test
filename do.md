@@ -42,6 +42,9 @@ What tasks do we actually want to get done on this package?
   - [ ] Allow filtering
     - [ ] Tags
     - [ ] Dates
+  - [ ] Show time until task deadline
+  - [ ] Ability to add tasks in the middle of the file
+- [ ] Option to specify dates relatively like `after:tomorrow`
 
 # Examples
 
