@@ -46,6 +46,7 @@ What tasks do we actually want to get done on this package?
   - [ ] Ability to add tasks in the middle of the file
   - [ ] Better error handling in git
   - [ ] Surface pending changes count when offline
+  - [ ] Read author / email from settings
 - [ ] Option to specify dates relatively like `after:tomorrow`
 
 # Examples
