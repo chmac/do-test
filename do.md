@@ -51,6 +51,9 @@ What tasks do we actually want to get done on this package?
     - [ ] Show time since last fetch
   - [ ] Allow reordering of tasks
 - [ ] Option to specify dates relatively like `after:tomorrow`
+- [ ] Repeat tasks with only an `after:` date
+- [ ] Add a formatting step to git pipeline
+- [ ] Rename `after:` to ... ? `start` or `from`?
 
 # Examples
 
