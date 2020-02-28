@@ -1,4 +1,4 @@
-- [ ] Talk to Smushy @home
+- [x] Talk to Smushy @home
 - [ ] New top task in inbox
 - [ ] Items in the inbox need to be filed
 - [ ] They can gather here but then will go south
