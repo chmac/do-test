@@ -47,6 +47,8 @@ What tasks do we actually want to get done on this package?
   - [ ] Better error handling in git
   - [ ] Surface pending changes count when offline
   - [ ] Read author / email from settings
+  - [ ] Poll git for changes
+    - [ ] Show time since last fetch
 - [ ] Option to specify dates relatively like `after:tomorrow`
 
 # Examples
