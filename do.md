@@ -44,6 +44,8 @@ What tasks do we actually want to get done on this package?
     - [ ] Dates
   - [ ] Show time until task deadline
   - [ ] Ability to add tasks in the middle of the file
+  - [ ] Better error handling in git
+  - [ ] Surface pending changes count when offline
 - [ ] Option to specify dates relatively like `after:tomorrow`
 
 # Examples
