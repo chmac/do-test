@@ -49,6 +49,7 @@ What tasks do we actually want to get done on this package?
   - [ ] Read author / email from settings
   - [ ] Poll git for changes
     - [ ] Show time since last fetch
+  - [ ] Allow reordering of tasks
 - [ ] Option to specify dates relatively like `after:tomorrow`
 
 # Examples
