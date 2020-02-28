@@ -38,7 +38,7 @@ What tasks do we actually want to get done on this package?
 - [ ] Node script to apply recursion
 - [ ] Browser based version
   - [x] Connect to git backend
-  - [ ] Load data from a markdown file
+  - [x] Load data from a markdown file
   - [ ] Allow filtering
     - [ ] Tags
     - [ ] Dates
