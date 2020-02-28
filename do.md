@@ -40,7 +40,7 @@ What tasks do we actually want to get done on this package?
   - [x] Connect to git backend
   - [x] Load data from a markdown file
   - [ ] Allow filtering
-    - [ ] Tags
+    - [x] Tags
     - [ ] Dates
   - [ ] Show time until task deadline
   - [ ] Ability to add tasks in the middle of the file
