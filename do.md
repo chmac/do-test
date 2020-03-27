@@ -3,7 +3,7 @@
 - [ ] They can gather here but then will go south
 - [ ] Choose a + or a @ for people
 - [ ] Decide where # tags come into this
-- [ ] Extra task, far future after:2021-01-01
+- [ ] Extra task, far future `after:2021-01-01`
 
 # Work
 
@@ -13,8 +13,8 @@ This is the general project that handles work related matters.
 
 Work stuff which doens't below in any specific sub project
 
-- [ ] Uncompleted task at first +Generous @home #foo #bar
-  - after:2020-04-01 by:2020-05-07 created:2020-02-05
+- [ ] Uncompleted task at first +Generous @home #foo #bar  
+      `after:2020-04-01` `by:2020-05-07` `created:2020-02-05`
   - child comment  
     this is another line in the same comment
   - [ ] A sub task @home @email +Callum +Tom
@@ -59,8 +59,8 @@ What tasks do we actually want to get done on this package?
 
 Some tasks which repeat so we can mess around with that.
 
-- [ ] First repetition task by:2020-02-05 repeat:after3days
+- [ ] First repetition task `by:2020-02-05` `repeat:after3days`
 - [ ] A deadline repeating task
-      after:2020-04-01 by:2020-05-07 repeat:after3months
-- [x] A deadline repeating task after:2020-01-01 by:2020-02-07
-      repeat:after3months finished:2020-02-05
+      `after:2020-04-01` `by:2020-05-07` `repeat:after3months`
+- [x] A deadline repeating task `after:2020-01-01` `by:2020-02-07`
+      `repeat:after3months` `finished:2020-02-05`
